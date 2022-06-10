@@ -15,7 +15,7 @@ include("inc/fungsi.php");
 
 		<header>
 			<div class="logo">
-				<img src="<?=URL_SITUS.PATH_LOGO.'/'.FILE_LOGO;?>">
+				<img src="logo.png">
 			</div>
 			<div class="clear"></div>
 
